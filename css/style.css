@@ -1,0 +1,215 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-item{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1.7rem;
+    padding-right: 1.7rem;
+}
+
+.nav-link{
+    color: white;
+    font-weight: 700;
+}
+
+.btn-lg{
+    margin-top: 2rem;
+    color: white;
+    background-color: #181818;
+    border: none;
+}
+
+.sub-head{
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    justify-content: center;
+}
+
+.fs-2{
+    font-size: 7rem;
+    color: #181818;
+}
+
+.val-logo{
+    width: 100%;
+    height: 100%;
+}
+
+.mid-feed h2{
+    font-weight:bolder;
+    font-size: 4rem;
+    color: #dc3545;
+    padding-top: 2rem;
+    padding-left: 1.5rem;
+}
+
+.mid-cards{
+   margin: auto;
+   padding: auto;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+}
+
+.card{
+    width: 26rem;
+    margin:auto;
+    box-sizing: border-box;
+}
+
+.card-text{
+    display: flex;
+    align-content: flex-start;
+}
+
+#card-img-top{
+    width: 100;
+    height: 100;
+}
+
+.card img{
+    width: 100%;
+    height: auto
+}
+
+.game{
+    font-weight: 700;
+    color: #dc3545;
+    
+}
+
+.HomeLatestEpisodeOrAct-module--keyart--UXtdc{
+    width: 100%;
+    height: 100%;
+}
+
+.btn-lga{
+    width: 15rem;
+    height: 3rem;
+    margin-top: 2rem;
+    color: white;
+    font-weight: 400;
+    background-color: #dc3545;
+    border: none;
+}
+
+#captions h5,h2{
+    font-size: 2rem;
+    display: flex;
+    flex: row;
+    align-content: space-around;
+    justify-content: flex-start;
+    padding-left: 1rem;
+}
+
+#captions button{
+    margin-left: 1rem;
+    display: flex;  
+    justify-content: flex-start;
+}
+
+.btn span{
+    padding-top: 5px;
+    padding-left: 40px;
+    
+}
+
+.carousel-item img{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+#carousel-bottom img{
+    display: flex;
+    width:60rem;
+
+}
+
+.bottom-text h2{
+    font-size:5rem;
+    font-weight: 700;
+}
+
+#captions-bottom h5,p{
+    display: flex;
+    justify-content: center;
+   color: black;
+}
+
+.right-text{
+    box-sizing: border-box;
+    font-size: 20px;
+    margin-left: 50rem;
+    margin-bottom: 23rem;
+    height: 7rem;
+    width: 20rem;
+    font-weight: 500;
+}
+
+.footer-bottom{
+    background-color: #181818;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-bottom a{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    margin-left: 40rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.footer-bottom p{
+    color:white;
+    margin-left:2.5rem;
+
+}
+
+#bottom-card{
+    width: auto;
+    height: auto;
+    margin-left: auto;
+}
+
+#bottom-card-text{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+#bottom-card h2{
+    font-weight:bolder;
+    font-size: 4rem;
+    color: #dc3545;
+    justify-content: center;
+}
+
+#bottom-card .sub-text{
+    font-weight: bolder;
+    font-size: 2rem;
+}
+
+.footer-bottom p{
+    padding: 2rem;
+}
+
+.footer-links{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.footer-links a{
+    margin-top: 0.5rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    color: white;
+    border-color: none;
+}
+
